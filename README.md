@@ -1,3 +1,2 @@
 # Python-projects
-Data analysis projects using pandas
-In this project, I have tried to get some insights from the sales data.
+In this repository, I will be uploading all the projects I have completed using Python and its libraries.
